@@ -1,5 +1,10 @@
+def my_superfunction():
+    print('Some text')
+
+
 def main():
     print('Some text')
+    print('Hello python')
 
 
 if __name__ == '__main__':
