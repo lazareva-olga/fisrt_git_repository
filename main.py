@@ -1,3 +1,7 @@
+def my_superfunction():
+    print('Some text')
+
+
 def main():
     print('Some text')
 
